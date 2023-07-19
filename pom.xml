@@ -12,12 +12,12 @@
 
   <name>ugs-parent</name>
   <description>Universal Gcode Sender Library</description>
-  <url>https://github.com/winder/Universal-G-Code-Sender/tree/master</url>
+  <url>https://github.com/hjwg88/ugs-China/tree/master</url>
 
   <scm>
     <connection>scm:git:git@github.com:winder/Universal-G-Code-Sender.git</connection>
     <developerConnection>scm:git:git@github.com:winder/Universal-G-Code-Sender.git</developerConnection>
-    <url>https://github.com/winder/Universal-G-Code-Sender/tree/master</url>
+    <url>https://github.com/hjwg88/ugs-China/tree/master</url>
   </scm>
 
   <licenses>

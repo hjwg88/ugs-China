@@ -13,7 +13,7 @@
 
     <name>${project.artifactId}</name>
     <description>The classic UI edition</description>
-    <url>https://github.com/winder/Universal-G-Code-Sender/tree/master/ugs-classic</url>
+    <url>https://github.com/hjwg88/ugs-China/tree/master/ugs-classic</url>
 
     <properties>
         <project.build.releaseSourceDirectory>release_files</project.build.releaseSourceDirectory>

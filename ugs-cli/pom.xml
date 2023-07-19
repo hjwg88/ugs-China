@@ -13,7 +13,7 @@
 
     <name>${project.artifactId}</name>
     <description>Universal Gcode Sender terminal client</description>
-    <url>https://github.com/winder/Universal-G-Code-Sender/tree/master/ugs-terminal-client</url>
+    <url>https://github.com/hjwg88/ugs-China/tree/master/ugs-terminal-client</url>
 
     <dependencies>
         <dependency>
